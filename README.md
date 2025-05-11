@@ -64,7 +64,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,tailwind,bootstrap,php,laravel" alt="Frontend & Backend" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,css,tailwind,bootstrap,react,php,laravel" alt="Frontend & Backend" height="40"/>
   <br/>
   <b style="color:#007BFF">Frontend & Backend</b>
 </p>
